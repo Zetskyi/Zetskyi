@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Zetskyi
+- 👀 I’m interested in JS, TS, PHP, node.js Processing BigData with PHP :D
+- 🌱 I’m currently learning React :D
+- 💞️ I’m looking to collaborate on projects on laravel and magetno 2 :)
+- 📫 How to reach me ...
